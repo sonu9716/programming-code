@@ -18,6 +18,6 @@ int main()
     if (flag == 0)
     {
         cout << "this is a prime number ";
-        return 1;
+        return 0;
     }
 }
